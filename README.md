@@ -16,7 +16,7 @@ This project runs in the command line and features custom **ASCII art** for each
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Roshambo-game.git
+   git clone https://github.com/Fiteh-21/Roshambo-game.git
 
    ```
 
